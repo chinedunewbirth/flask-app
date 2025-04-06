@@ -2,6 +2,7 @@
 Continuously Build &amp; Deploy a Python Flask App (with SQLite) on AWS EC2 using GitHub Actions, and execute it via WSGI (Gunicorn)
 
 🔧 Tech Stack
+
 Flask (Python micro web framework)
 
 SQLite (lightweight DB)
