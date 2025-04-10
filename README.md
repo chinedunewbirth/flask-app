@@ -19,14 +19,23 @@ Nginx (optional, for reverse proxy)
 
 flask-app/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── database.db
+
 ├── .github/
+
 │   └── workflows/
+
 │       └── deploy.yml
+
 ├── wsgi.py
+
 └── templates/
+
     └── index.html
 
 Create EC2 Instance on AWS
